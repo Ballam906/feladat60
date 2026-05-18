@@ -1,0 +1,56 @@
+Név	Ország	Műfaj	FellépésNapja	SpotifyHallgatók	Slágerek
+Post Malone	USA	hip hop	2025-08-10	83000000	Circles,Rockstar,Congratulations,Sunflower
+Shawn Mendes	Kanada	pop	2025-08-07	56000000	Stitches,Treat You Better,Señorita,There's Nothing Holdin' Me Back
+Charli XCX	UK	pop	2025-08-06	65000000	Boom Clap,1999,Speed Drive,Vroom Vroom
+Chappell Roan	USA	pop	2025-08-11	45000000	Good Luck Babe,Red Wine Supernova
+Nelly Furtado	Kanada	pop	2025-08-07	18000000	Promiscuous,Maneater,Say It Right,I'm Like a Bird,
+Kid Cudi	USA	hip hop	2025-08-08	24000000	Pursuit of Happiness,Day 'n' Nite,Mr. Rager,Erase Me
+Justice	Franciaország	electronic	2025-08-07	8000000	D.A.N.C.E,Genesis,We Are Your Friends
+FKA twigs	UK	alternative	2025-08-09	5000000	Cellophane,Two Weeks,Sad Day,Pendulum
+Papa Roach	USA	rock	2025-08-06	15000000	Last Resort,Scars,Between Angels and Insects,Help
+The Kooks	UK	indie rock	2025-08-08	12000000	Naive,She Moves in Her Own Way,Seaside,Always Where I Need to Be
+Little Simz	UK	hip hop	2025-08-06	4000000	Venom,Introvert,Woman,Selfish
+Sevdaliza	Irán/Hollandia	alternative	2025-08-09	3000000	Human,Alibi,Oh My God,That Other Girl
+Armin van Buuren	Hollandia	EDM	2025-08-10	32000000	This Is What It Feels Like,Blah Blah Blah,Great Spirit
+Boris Brejcha	Németország	techno	2025-08-07	8000000	Purple Noise,Gravity,It Starts,Take It Smart
+Don Diablo	Hollandia	EDM	2025-08-06	15000000	On My Mind,Survive,Cutting Shapes,Take Her Place
+The Last Dinner Party	UK	indie rock	2025-08-11	9000000	Sinner,Caesarian,Nothing Matters,My Lady of Mercy
+Michael Kiwanuka	UK	soul	2025-08-08	11000000	Cold Little Heart,Home Again,Love & Hate,You Ain't the Problem
+Big Thief	USA	indie folk	2025-08-09	7000000	Not,Paul,Vampire Empire,Certainty,Mythological Beauty
+Aurora	Norvégia	art pop	2025-08-07	15000000	Runaway,Queendom,Cure For Me,Exist For Love
+Raye	UK	r&b	2025-08-10	18000000	Escapism,Black Mascara,Ice Cream Man,Hard Out Here
+Loyle Carner	UK	hip hop	2025-08-08	6000000	Ottolenghi,Loose Ends,Yesterday,Hate
+Glass Animals	UK	indie pop	2025-08-09	25000000	Heat Waves,Gooey,Tokyo Drifting,Youth
+Anyma	Olaszország	techno	2025-08-09	5000000	Eternity,Syren
+Krúbi	Magyarország	hip hop	2025-08-08	400000	-
+Pogány Induló	Magyarország	hip hop	2025-08-08	300000	-
+Beton.Hofi	Magyarország	hip hop	2025-08-09	350000	-
+Refused	Svédország	punk	2025-08-11	2000000	New Noise,Summerholidays vs Punkroutine
+Palaye Royale	USA	rock	2025-08-06	4000000	Mr. Doctor Man,Get Higher
+Amelie Lens	Belgium	techno	2025-08-08	1500000	-
+Subtronics	USA	dubstep	2025-08-11	2500000	-
+Brutalismus 3000	Németország	techno	2025-08-11	1200000	-
+Zaho de Sagazan	Franciaország	pop	2025-08-10	2000000	La symphonie des éclairs
+Fat Dog	UK	post-punk	2025-08-10	500000	-
+Co Lee	Magyarország	hip hop	2025-08-07	150000	-
+Noga Erez	Izrael	electropop	2025-08-07	1000000	-
+Caribou	Kanada	electronic	2025-08-08	6000000	Can't Do Without You
+Scarlet Pleasure	Dánia	pop	2025-08-08	800000	-
+Helado Negro	USA	indie	2025-08-09	500000	-
+Elderbrook	UK	electronic	2025-08-09	8000000	Cola
+RY X	Ausztrália	indie	2025-08-09	4000000	Berlin
+Vini Vici	Izrael	psytrance	2025-08-10	3000000	-
+Hedex	UK	drum & bass	2025-08-11	1000000	-
+1991	UK	drum & bass	2025-08-11	1500000	-
+Joey Valence	USA	hip hop	2025-08-11	1200000	-
+Alok	Brazília	EDM	2025-08-06	25000000	Hear Me Now
+Steve Angello	Svédország	house	2025-08-06	7000000	Show Me Love
+Layla Benitez	USA	house	2025-08-07	100000	-
+Len Faki	Németország	techno	2025-08-08	300000	-
+Blawan	UK	techno	2025-08-08	200000	-
+Adriatique	Svájc	house	2025-08-09	1000000	-
+Korolova	Ukrajna	house	2025-08-09	500000	-
+Agents Of Time	Olaszország	house	2025-08-09	400000	-
+Kiss of Life	Dél-Korea	k-pop	2025-08-06	6000000	-
+RØRY	UK	pop-punk	2025-08-06	800000	-
+John Legend	USA	r&b	2025-08-08	35000000	All of Me,Love Me Now,Used to Love U

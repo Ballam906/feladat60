@@ -1,0 +1,442 @@
+[
+  {
+    "Nev": "Post Malone",
+    "Orszag": "USA",
+    "Mufaj": "hip hop",
+    "FellepesNapja": "2025-08-10",
+    "SpotifyHallgato": 83000000,
+    "Slagerek": ["Circles", "Rockstar", "Congratulations", "Sunflower"]
+  },
+  {
+    "Nev": "Shawn Mendes",
+    "Orszag": "Kanada",
+    "Mufaj": "pop",
+    "FellepesNapja": "2025-08-07",
+    "SpotifyHallgato": 56000000,
+    "Slagerek": ["Stitches", "Treat You Better", "Señorita", "There's Nothing Holdin' Me Back"]
+  },
+  {
+    "Nev": "Charli XCX",
+    "Orszag": "UK",
+    "Mufaj": "pop",
+    "FellepesNapja": "2025-08-06",
+    "SpotifyHallgato": 65000000,
+    "Slagerek": ["Boom Clap", "1999", "Speed Drive", "Vroom Vroom"]
+  },
+  {
+    "Nev": "Chappell Roan",
+    "Orszag": "USA",
+    "Mufaj": "pop",
+    "FellepesNapja": "2025-08-11",
+    "SpotifyHallgato": 45000000,
+    "Slagerek": ["Good Luck Babe", "Red Wine Supernova"]
+  },
+  {
+    "Nev": "Nelly Furtado",
+    "Orszag": "Kanada",
+    "Mufaj": "pop",
+    "FellepesNapja": "2025-08-07",
+    "SpotifyHallgato": 18000000,
+    "Slagerek": ["Promiscuous", "Maneater", "Say It Right", "I'm Like a Bird"]
+  },
+  {
+    "Nev": "Kid Cudi",
+    "Orszag": "USA",
+    "Mufaj": "hip hop",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 24000000,
+    "Slagerek": ["Pursuit of Happiness", "Day 'n' Nite", "Mr. Rager", "Erase Me"]
+  },
+  {
+    "Nev": "Justice",
+    "Orszag": "Franciaország",
+    "Mufaj": "electronic",
+    "FellepesNapja": "2025-08-07",
+    "SpotifyHallgato": 8000000,
+    "Slagerek": ["D.A.N.C.E", "Genesis", "We Are Your Friends"]
+  },
+  {
+    "Nev": "FKA twigs",
+    "Orszag": "UK",
+    "Mufaj": "alternative",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 5000000,
+    "Slagerek": ["Cellophane", "Two Weeks", "Sad Day", "Pendulum"]
+  },
+  {
+    "Nev": "Papa Roach",
+    "Orszag": "USA",
+    "Mufaj": "rock",
+    "FellepesNapja": "2025-08-06",
+    "SpotifyHallgato": 15000000,
+    "Slagerek": ["Last Resort", "Scars", "Between Angels and Insects", "Help"]
+  },
+  {
+    "Nev": "The Kooks",
+    "Orszag": "UK",
+    "Mufaj": "indie rock",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 12000000,
+    "Slagerek": ["Naive", "She Moves in Her Own Way", "Seaside", "Always Where I Need to Be"]
+  },
+  {
+    "Nev": "Little Simz",
+    "Orszag": "UK",
+    "Mufaj": "hip hop",
+    "FellepesNapja": "2025-08-06",
+    "SpotifyHallgato": 4000000,
+    "Slagerek": ["Venom", "Introvert", "Woman", "Selfish"]
+  },
+  {
+    "Nev": "Sevdaliza",
+    "Orszag": "Irán/Hollandia",
+    "Mufaj": "alternative",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 3000000,
+    "Slagerek": ["Human", "Alibi", "Oh My God", "That Other Girl"]
+  },
+  {
+    "Nev": "Armin van Buuren",
+    "Orszag": "Hollandia",
+    "Mufaj": "EDM",
+    "FellepesNapja": "2025-08-10",
+    "SpotifyHallgato": 32000000,
+    "Slagerek": ["This Is What It Feels Like", "Blah Blah Blah", "Great Spirit"]
+  },
+  {
+    "Nev": "Boris Brejcha",
+    "Orszag": "Németország",
+    "Mufaj": "techno",
+    "FellepesNapja": "2025-08-07",
+    "SpotifyHallgato": 8000000,
+    "Slagerek": ["Purple Noise", "Gravity", "It Starts", "Take It Smart"]
+  },
+  {
+    "Nev": "Don Diablo",
+    "Orszag": "Hollandia",
+    "Mufaj": "EDM",
+    "FellepesNapja": "2025-08-06",
+    "SpotifyHallgato": 15000000,
+    "Slagerek": ["On My Mind", "Survive", "Cutting Shapes", "Take Her Place"]
+  },
+  {
+    "Nev": "The Last Dinner Party",
+    "Orszag": "UK",
+    "Mufaj": "indie rock",
+    "FellepesNapja": "2025-08-11",
+    "SpotifyHallgato": 9000000,
+    "Slagerek": ["Sinner", "Caesarian", "Nothing Matters", "My Lady of Mercy"]
+  },
+  {
+    "Nev": "Michael Kiwanuka",
+    "Orszag": "UK",
+    "Mufaj": "soul",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 11000000,
+    "Slagerek": ["Cold Little Heart", "Home Again", "Love & Hate", "You Ain't the Problem"]
+  },
+  {
+    "Nev": "Big Thief",
+    "Orszag": "USA",
+    "Mufaj": "indie folk",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 7000000,
+    "Slagerek": ["Not", "Paul", "Vampire Empire", "Certainty", "Mythological Beauty"]
+  },
+  {
+    "Nev": "Aurora",
+    "Orszag": "Norvégia",
+    "Mufaj": "art pop",
+    "FellepesNapja": "2025-08-07",
+    "SpotifyHallgato": 15000000,
+    "Slagerek": ["Runaway", "Queendom", "Cure For Me", "Exist For Love"]
+  },
+  {
+    "Nev": "Raye",
+    "Orszag": "UK",
+    "Mufaj": "r&b",
+    "FellepesNapja": "2025-08-10",
+    "SpotifyHallgato": 18000000,
+    "Slagerek": ["Escapism", "Black Mascara", "Ice Cream Man", "Hard Out Here"]
+  },
+  {
+    "Nev": "Loyle Carner",
+    "Orszag": "UK",
+    "Mufaj": "hip hop",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 6000000,
+    "Slagerek": ["Ottolenghi", "Loose Ends", "Yesterday", "Hate"]
+  },
+  {
+    "Nev": "Glass Animals",
+    "Orszag": "UK",
+    "Mufaj": "indie pop",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 25000000,
+    "Slagerek": ["Heat Waves", "Gooey", "Tokyo Drifting", "Youth"]
+  },
+  {
+    "Nev": "Anyma",
+    "Orszag": "Olaszország",
+    "Mufaj": "techno",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 5000000,
+    "Slagerek": ["Eternity", "Syren"]
+  },
+  {
+    "Nev": "Krúbi",
+    "Orszag": "Magyarország",
+    "Mufaj": "hip hop",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 400000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Pogány Induló",
+    "Orszag": "Magyarország",
+    "Mufaj": "hip hop",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 300000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Beton.Hofi",
+    "Orszag": "Magyarország",
+    "Mufaj": "hip hop",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 350000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Refused",
+    "Orszag": "Svédország",
+    "Mufaj": "punk",
+    "FellepesNapja": "2025-08-11",
+    "SpotifyHallgato": 2000000,
+    "Slagerek": ["New Noise", "Summerholidays vs Punkroutine"]
+  },
+  {
+    "Nev": "Palaye Royale",
+    "Orszag": "USA",
+    "Mufaj": "rock",
+    "FellepesNapja": "2025-08-06",
+    "SpotifyHallgato": 4000000,
+    "Slagerek": ["Mr. Doctor Man", "Get Higher"]
+  },
+  {
+    "Nev": "Amelie Lens",
+    "Orszag": "Belgium",
+    "Mufaj": "techno",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 1500000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Subtronics",
+    "Orszag": "USA",
+    "Mufaj": "dubstep",
+    "FellepesNapja": "2025-08-11",
+    "SpotifyHallgato": 2500000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Brutalismus 3000",
+    "Orszag": "Németország",
+    "Mufaj": "techno",
+    "FellepesNapja": "2025-08-11",
+    "SpotifyHallgato": 1200000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Zaho de Sagazan",
+    "Orszag": "Franciaország",
+    "Mufaj": "pop",
+    "FellepesNapja": "2025-08-10",
+    "SpotifyHallgato": 2000000,
+    "Slagerek": ["La symphonie des éclairs"]
+  },
+  {
+    "Nev": "Fat Dog",
+    "Orszag": "UK",
+    "Mufaj": "post-punk",
+    "FellepesNapja": "2025-08-10",
+    "SpotifyHallgato": 500000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Co Lee",
+    "Orszag": "Magyarország",
+    "Mufaj": "hip hop",
+    "FellepesNapja": "2025-08-07",
+    "SpotifyHallgato": 150000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Noga Erez",
+    "Orszag": "Izrael",
+    "Mufaj": "electropop",
+    "FellepesNapja": "2025-08-07",
+    "SpotifyHallgato": 1000000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Caribou",
+    "Orszag": "Kanada",
+    "Mufaj": "electronic",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 6000000,
+    "Slagerek": ["Can't Do Without You"]
+  },
+  {
+    "Nev": "Scarlet Pleasure",
+    "Orszag": "Dánia",
+    "Mufaj": "pop",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 800000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Helado Negro",
+    "Orszag": "USA",
+    "Mufaj": "indie",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 500000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Elderbrook",
+    "Orszag": "UK",
+    "Mufaj": "electronic",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 8000000,
+    "Slagerek": ["Cola"]
+  },
+  {
+    "Nev": "RY X",
+    "Orszag": "Ausztrália",
+    "Mufaj": "indie",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 4000000,
+    "Slagerek": ["Berlin"]
+  },
+  {
+    "Nev": "Vini Vici",
+    "Orszag": "Izrael",
+    "Mufaj": "psytrance",
+    "FellepesNapja": "2025-08-10",
+    "SpotifyHallgato": 3000000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Hedex",
+    "Orszag": "UK",
+    "Mufaj": "drum & bass",
+    "FellepesNapja": "2025-08-11",
+    "SpotifyHallgato": 1000000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "1991",
+    "Orszag": "UK",
+    "Mufaj": "drum & bass",
+    "FellepesNapja": "2025-08-11",
+    "SpotifyHallgato": 1500000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Joey Valence",
+    "Orszag": "USA",
+    "Mufaj": "hip hop",
+    "FellepesNapja": "2025-08-11",
+    "SpotifyHallgato": 1200000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Alok",
+    "Orszag": "Brazília",
+    "Mufaj": "EDM",
+    "FellepesNapja": "2025-08-06",
+    "SpotifyHallgato": 25000000,
+    "Slagerek": ["Hear Me Now"]
+  },
+  {
+    "Nev": "Steve Angello",
+    "Orszag": "Svédország",
+    "Mufaj": "house",
+    "FellepesNapja": "2025-08-06",
+    "SpotifyHallgato": 7000000,
+    "Slagerek": ["Show Me Love"]
+  },
+  {
+    "Nev": "Layla Benitez",
+    "Orszag": "USA",
+    "Mufaj": "house",
+    "FellepesNapja": "2025-08-07",
+    "SpotifyHallgato": 100000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Len Faki",
+    "Orszag": "Németország",
+    "Mufaj": "techno",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 300000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Blawan",
+    "Orszag": "UK",
+    "Mufaj": "techno",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 200000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Adriatique",
+    "Orszag": "Svájc",
+    "Mufaj": "house",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 1000000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Korolova",
+    "Orszag": "Ukrajna",
+    "Mufaj": "house",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 500000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Agents Of Time",
+    "Orszag": "Olaszország",
+    "Mufaj": "house",
+    "FellepesNapja": "2025-08-09",
+    "SpotifyHallgato": 400000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "Kiss of Life",
+    "Orszag": "Dél-Korea",
+    "Mufaj": "k-pop",
+    "FellepesNapja": "2025-08-06",
+    "SpotifyHallgato": 6000000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "RØRY",
+    "Orszag": "UK",
+    "Mufaj": "pop-punk",
+    "FellepesNapja": "2025-08-06",
+    "SpotifyHallgato": 800000,
+    "Slagerek": []
+  },
+  {
+    "Nev": "John Legend",
+    "Orszag": "USA",
+    "Mufaj": "r&b",
+    "FellepesNapja": "2025-08-08",
+    "SpotifyHallgato": 35000000,
+    "Slagerek": ["All of Me", "Love Me Now", "Used to Love U"]
+  }
+]
